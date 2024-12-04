@@ -1,0 +1,22 @@
+body{
+    background-color: gray;
+}
+.white{
+    margin-bottom: 300px;
+    background-color: white;
+   
+    align-items: center;
+    width: 1000px;
+    height: 500px;
+    border: 1px solid black;
+}
+.red{
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    position: absolute;
+    left: 350px;
+    top: 90px;
+  
+    background-color: brown;
+}
